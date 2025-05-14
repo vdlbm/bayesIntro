@@ -1,2 +1,3 @@
 # bayesIntro
-Repo for the pieces of code 
+
+Repo for the pieces of code of Bayesian Data Analysis
