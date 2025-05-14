@@ -1,0 +1,2 @@
+# bayesIntro
+Repo for the pieces of code 
